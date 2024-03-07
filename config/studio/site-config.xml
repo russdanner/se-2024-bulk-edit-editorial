@@ -31,6 +31,8 @@
         <staging-url></staging-url>
         <live-url></live-url>
     </site-urls>
+    
+    <gitRemoteBranch>russ</gitRemoteBranch>
 
     <locale>
         <!--
