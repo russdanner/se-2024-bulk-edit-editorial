@@ -10,15 +10,15 @@
 	<folder-name>technology</folder-name>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>11000</orderDefault_f>
-	<internal-name>Technology</internal-name>
-	<title_t>Technology</title_t>
+	<internal-name>tech</internal-name>
+	<title_t>tech</title_t>
 	<createdDate>2017-03-14T15:24:15.000Z</createdDate>
 	<createdDate_dt>2017-03-14T15:24:15.000Z</createdDate_dt>
 	<lastModifiedDate>2024-03-07T13:56:04.390Z</lastModifiedDate>
 	<lastModifiedDate_dt>2024-03-07T13:56:04.390Z</lastModifiedDate_dt>
 	<category_s>technology</category_s>
 	<max_articles_i>10</max_articles_i>
-	<articles_title_t>Technology</articles_title_t>
+	<articles_title_t>tech</articles_title_t>
 	<left_rail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-related-articles.xml</key>
 	<value>Left Rail with Related Articles</value>
 	<include>/site/components/left-rails/left-rail-with-related-articles.xml</include>
