@@ -21,9 +21,9 @@
 	<articles_title_t>Health</articles_title_t>
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
-	<left_rail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
+	<left_rail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-related-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
-	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
+	<include>/site/components/left-rails/left-rail-with-related-articles.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></left_rail_o>
 </page>
